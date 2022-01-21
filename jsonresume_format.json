@@ -1,0 +1,63 @@
+// 2)  My own resume data in JSON format : -
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+{
+  "myresume": {
+    "name": "Kalaivani",
+    "dob" : "1998-01-11";
+    "profile_image": "mypassportsize.JPEG",
+    "email": "kalaivanixyz@gmail.com",
+    "phone": "+91 98765 43210",
+    "degree": "B.sc Computer Science",
+    "Linkedin_url": "https://www.linkedin.com/kalai",
+    
+    "location": {
+      "address": "16, XYZ Colony, ABC Nagar",
+      "city": "Coimbatore",
+      "state": "Tamil nadu",
+      "pinCode": "641028",
+      "region": "Indian"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "linkedin_url": "https://www.linkedin.com/kalai",
+        "username": "Kalaivani"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Ardhas Technology",
+      "position": "Associate Software Developer",
+      "website": "https://www.ardhas.com/",
+      "startDate": 2019,
+      "endDate": 2021,
+      "job_description": "Responding to Client requirements in a timely and accurate way, via phone, email or chat.Identifying Client needs and helping Client use specific features. Analyzing and reporting product malfunctions"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Sri Ramakrishna College of Art and Science",
+      "area": "Computer Science",
+      "startDate": 2015,
+      "endDate": 2021,
+      "percentage": "80",
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Developer",
+      "level": "Begginer",
+      "keywords": [
+        "html",
+        "css",
+        "laravel in php framework",
+        "MySql",
+        "Photoshop",
+        "figma",
+        "PSD"
+      ]
+    }
+  ]
+}
